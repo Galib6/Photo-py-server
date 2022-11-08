@@ -1,0 +1,50 @@
+[
+    {
+        "service_id": "01",
+        "price": "20",
+        "title": "Weeding",
+        "img": "https://media.istockphoto.com/photos/celebrating-their-wedding-with-style-picture-id1146979603?b=1&k=20&m=1146979603&s=170667a&w=0&h=L_kU3D80NQVjsVtZfqHboZAercOo59K_Ve3O5TDSAyY=",
+        "Rating": "4.5",
+        "description": "You've put an incredible amount of work into planning your wedding. So, you obviously want to capture it in the best way possible. And while you trust your photographer, it's always smart to map out the pictures you especially want of your wedding. Creating a shot list and sharing it with your photographer is a win-win: it enables you to be certain that you'll get the specific pictures you've envisioned, and it makes your photographer's job a little easier, having instructions to work with. Not to mention, it gives them peace of mind knowing you'll be a happy client as long as the shot list is followed.Select half a dozen photos that you must have and share them with your photographer in advance of your wedding day. That way they can make a note to be creative and capture the organic and fun scenes as they develop, while also making time for the images that you especially want."
+    },
+    {
+        "service_id": "02",
+        "price": "25",
+        "title": "Engagement",
+        "img": "https://www.eivans.com/wp-content/uploads/2020/03/eivans-191101-075-scaled.jpg",
+        "Rating": "4.5",
+        "description": "You've put an incredible amount of work into planning your wedding. So, you obviously want to capture it in the best way possible. And while you trust your photographer, it's always smart to map out the pictures you especially want of your wedding. Creating a shot list and sharing it with your photographer is a win-win: it enables you to be certain that you'll get the specific pictures you've envisioned, and it makes your photographer's job a little easier, having instructions to work with. Not to mention, it gives them peace of mind knowing you'll be a happy client as long as the shot list is followed.Select half a dozen photos that you must have and share them with your photographer in advance of your wedding day. That way they can make a note to be creative and capture the organic and fun scenes as they develop, while also making time for the images that you especially want."
+    },
+    {
+        "service_id": "03",
+        "price": "50",
+        "title": "Portrait",
+        "img": "https://www.format.com/wp-content/uploads/alekzan-powell-5t5krHi1LQ8-unsplash.jpg",
+        "Rating": "4.5",
+        "description": "You've put an incredible amount of work into planning your wedding. So, you obviously want to capture it in the best way possible. And while you trust your photographer, it's always smart to map out the pictures you especially want of your wedding. Creating a shot list and sharing it with your photographer is a win-win: it enables you to be certain that you'll get the specific pictures you've envisioned, and it makes your photographer's job a little easier, having instructions to work with. Not to mention, it gives them peace of mind knowing you'll be a happy client as long as the shot list is followed.Select half a dozen photos that you must have and share them with your photographer in advance of your wedding day. That way they can make a note to be creative and capture the organic and fun scenes as they develop, while also making time for the images that you especially want."
+    },
+    {
+        "service_id": "04",
+        "price": "60",
+        "title": "Journal",
+        "img": "https://images.squarespace-cdn.com/content/v1/5a009d38914e6b473ffe5615/014974ca-1f4a-47c2-80c9-bc5d16139e24/NE-Jen-Huang-Bogan-119-542230_012.jpg?format=1000w",
+        "Rating": "4.5",
+        "description": "You've put an incredible amount of work into planning your wedding. So, you obviously want to capture it in the best way possible. And while you trust your photographer, it's always smart to map out the pictures you especially want of your wedding. Creating a shot list and sharing it with your photographer is a win-win: it enables you to be certain that you'll get the specific pictures you've envisioned, and it makes your photographer's job a little easier, having instructions to work with. Not to mention, it gives them peace of mind knowing you'll be a happy client as long as the shot list is followed.Select half a dozen photos that you must have and share them with your photographer in advance of your wedding day. That way they can make a note to be creative and capture the organic and fun scenes as they develop, while also making time for the images that you especially want."
+    },
+    {
+        "service_id": "05",
+        "price": "40",
+        "title": "Shop",
+        "img": "https://malaysialistings.s3.ap-south-1.amazonaws.com/listings/f8_camera_store_photo_shop_passport_visa.jpg",
+        "Rating": "4.5",
+        "description": "You've put an incredible amount of work into planning your wedding. So, you obviously want to capture it in the best way possible. And while you trust your photographer, it's always smart to map out the pictures you especially want of your wedding. Creating a shot list and sharing it with your photographer is a win-win: it enables you to be certain that you'll get the specific pictures you've envisioned, and it makes your photographer's job a little easier, having instructions to work with. Not to mention, it gives them peace of mind knowing you'll be a happy client as long as the shot list is followed.Select half a dozen photos that you must have and share them with your photographer in advance of your wedding day. That way they can make a note to be creative and capture the organic and fun scenes as they develop, while also making time for the images that you especially want."
+    },
+    {
+        "service_id": "06",
+        "price": "34",
+        "title": "WildLife",
+        "img": "https://learn.canva.com/wp-content/uploads/2018/03/rob-potter-566319-unsplash-copy.jpg",
+        "Rating": "4.5",
+        "description": "You've put an incredible amount of work into planning your wedding. So, you obviously want to capture it in the best way possible. And while you trust your photographer, it's always smart to map out the pictures you especially want of your wedding. Creating a shot list and sharing it with your photographer is a win-win: it enables you to be certain that you'll get the specific pictures you've envisioned, and it makes your photographer's job a little easier, having instructions to work with. Not to mention, it gives them peace of mind knowing you'll be a happy client as long as the shot list is followed.Select half a dozen photos that you must have and share them with your photographer in advance of your wedding day. That way they can make a note to be creative and capture the organic and fun scenes as they develop, while also making time for the images that you especially want."
+    }
+]
