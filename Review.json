@@ -3,6 +3,7 @@
         "serviceId": "01",
         "name": "Al Galib",
         "sort": "1",
+        "title": "Weeding",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2015/08/what_makes_a_man_more_manly_main0.jpg?quality=86&strip=all",
         "rating": "4.5",
         "details": " Great photographer to work with. (PN) was energetic, engaging, and a lot of fun! We love our wedding pictures!"
@@ -11,6 +12,7 @@
         "serviceId": "01",
         "name": "Pedro",
         "sort": "2",
+        "title": "Weeding",
         "img": "https://i.guim.co.uk/img/media/d1a8023b09fb6f46fafed7566e742e4eb5fc0c43/0_1889_3648_2189/master/3648.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f94239a31f81093d07216f42caf900e",
         "rating": "4.5",
         "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
@@ -19,6 +21,7 @@
         "serviceId": "02",
         "name": "Al Galib",
         "sort": "1",
+        "title": "Engagement",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2015/08/what_makes_a_man_more_manly_main0.jpg?quality=86&strip=all",
         "rating": "4.5",
         "details": " Great photographer to work with. (PN) was energetic, engaging, and a lot of fun! We love our wedding pictures!"
@@ -27,6 +30,7 @@
         "serviceId": "02",
         "name": "Pedro",
         "sort": "2",
+        "title": "Engagement",
         "img": "https://i.guim.co.uk/img/media/d1a8023b09fb6f46fafed7566e742e4eb5fc0c43/0_1889_3648_2189/master/3648.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f94239a31f81093d07216f42caf900e",
         "rating": "4.5",
         "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
@@ -35,6 +39,7 @@
         "serviceId": "03",
         "name": "Al Galib",
         "sort": "1",
+        "title": "Portrait",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2015/08/what_makes_a_man_more_manly_main0.jpg?quality=86&strip=all",
         "rating": "4.5",
         "details": " Great photographer to work with. (PN) was energetic, engaging, and a lot of fun! We love our wedding pictures!"
@@ -43,6 +48,7 @@
         "serviceId": "03",
         "name": "Pedro",
         "sort": "2",
+        "title": "Portrait",
         "img": "https://i.guim.co.uk/img/media/d1a8023b09fb6f46fafed7566e742e4eb5fc0c43/0_1889_3648_2189/master/3648.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f94239a31f81093d07216f42caf900e",
         "rating": "4.5",
         "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
@@ -51,6 +57,7 @@
         "serviceId": "04",
         "name": "Al Galib",
         "sort": "1",
+        "title": "Journal",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2015/08/what_makes_a_man_more_manly_main0.jpg?quality=86&strip=all",
         "rating": "4.5",
         "details": " Great photographer to work with. (PN) was energetic, engaging, and a lot of fun! We love our wedding pictures!"
@@ -59,6 +66,7 @@
         "serviceId": "04",
         "name": "Pedro",
         "sort": "2",
+        "title": "Journal",
         "img": "https://i.guim.co.uk/img/media/d1a8023b09fb6f46fafed7566e742e4eb5fc0c43/0_1889_3648_2189/master/3648.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f94239a31f81093d07216f42caf900e",
         "rating": "4.5",
         "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
@@ -67,6 +75,7 @@
         "serviceId": "05",
         "name": "Al Galib",
         "sort": "1",
+        "title": "Shop",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2015/08/what_makes_a_man_more_manly_main0.jpg?quality=86&strip=all",
         "rating": "4.5",
         "details": " Great photographer to work with. (PN) was energetic, engaging, and a lot of fun! We love our wedding pictures!"
@@ -75,6 +84,7 @@
         "serviceId": "05",
         "name": "Pedro",
         "sort": "2",
+        "title": "Shop",
         "img": "https://i.guim.co.uk/img/media/d1a8023b09fb6f46fafed7566e742e4eb5fc0c43/0_1889_3648_2189/master/3648.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f94239a31f81093d07216f42caf900e",
         "rating": "4.5",
         "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
@@ -83,6 +93,7 @@
         "serviceId": "06",
         "name": "Al Galib",
         "sort": "1",
+        "title": "WildLife",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2015/08/what_makes_a_man_more_manly_main0.jpg?quality=86&strip=all",
         "rating": "4.5",
         "details": " Great photographer to work with. (PN) was energetic, engaging, and a lot of fun! We love our wedding pictures!"
@@ -91,6 +102,7 @@
         "serviceId": "06",
         "name": "Pedro",
         "sort": "2",
+        "title": "WildLife",
         "img": "https://i.guim.co.uk/img/media/d1a8023b09fb6f46fafed7566e742e4eb5fc0c43/0_1889_3648_2189/master/3648.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=9f94239a31f81093d07216f42caf900e",
         "rating": "4.5",
         "details": "Fuga numquam nulla nam, facere neque dignissimos ab esse magni accusamus eveniet ad corrupti, architecto nostrum."
