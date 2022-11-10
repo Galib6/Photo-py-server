@@ -1,5 +1,6 @@
 const express = require('express');
 const cors = require('cors');
+const jwt = require('jsonwebtoken');
 require("dotenv").config()
 const app = express();
 const port = process.env.PROT || 5000;
@@ -7,6 +8,24 @@ const port = process.env.PROT || 5000;
 // middlewere
 app.use(cors());
 app.use(express.json());
+
+function verifyJWT(req, res, next) {
+    const authHeader = req.headers.authorization;
+
+    if (!authHeader) {
+        return res.status(401).send({ message: 'unauthorized access' });
+    }
+    const token = authHeader.split(' ')[1];
+
+    jwt.verify(token, process.env.ACCESS_TOKEN_SECRET, function (err, decoded) {
+        if (err) {
+            return res.status(403).send({ message: 'Forbidden access' });
+        }
+        req.decoded = decoded;
+        next();
+    })
+}
+
 
 
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
@@ -16,6 +35,12 @@ async function run() {
     try {
         const serviceCollection = client.db("photography").collection("services");
         const reviewCollection = client.db("photography").collection("review");
+
+        app.post('/jwt', (req, res) => {
+            const user = req.body;
+            const token = jwt.sign(user, process.env.ACCESS_TOKEN_SECRET, { expiresIn: '1d' })
+            res.send({ token })
+        })
 
         app.get('/threeServices', async (req, res) => {
             const query = {}
@@ -57,7 +82,7 @@ async function run() {
             res.send(result);
         });
 
-        app.get('/myreviews', async (req, res) => {
+        app.get('/myreviews', verifyJWT, async (req, res) => {
             const query = { email: req.query.email }
             const cursor = reviewCollection.find(query);
             const services = await cursor.sort({ _id: -1 }).toArray()
