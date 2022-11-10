@@ -131,9 +131,6 @@ run().catch(err => console.log(err))
 
 console.log(process.env.DB_USER, process.env.DB_PASSWORD)
 
-
-
-
 app.get('/', (req, res) => {
     res.send('Photopy Server is running')
 })
